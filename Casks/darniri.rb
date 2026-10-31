@@ -1,8 +1,8 @@
 cask "darniri" do
-  version "1.2.0"
-  sha256 "d838ea0a95f44cd54745c178b0d65ab99bcf53485fc385c70f7909fbadd55c38"
+  version "1.3.0"
+  sha256 "3f451e3e90f39383be509082b9edb51dd5643054c4f842c088372a56276bee09"
 
-  url "https://github.com/stearz/Darniri/releases/download/v1.2.0/Darniri-arm64.zip"
+  url "https://github.com/stearz/Darniri/releases/download/v1.3.0/Darniri-arm64.zip"
   name "Darniri"
   desc "Scrolling-column window manager"
   homepage "https://github.com/stearz/Darniri"
