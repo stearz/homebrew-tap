@@ -2,10 +2,10 @@ class Darniri < Formula
   desc "Darwin/macOS implementation of a Niri-style scrolling-column window manager"
   homepage "https://github.com/stearz/Darniri"
   license "GPL-2.0-only"
-  version "1.1.0"
+  version "1.2.0"
 
-  url "https://github.com/stearz/Darniri/releases/download/v1.1.0/Darniri-arm64.tar.gz"
-  sha256 "761989b850f2eb1cb2aa4f36b7d07c950d17982b207cdaeb6361869910e7d456"
+  url "https://github.com/stearz/Darniri/releases/download/v1.2.0/Darniri-arm64.tar.gz"
+  sha256 "3dc7e083ba41e9935ddfba29ae866f1f603bbae3cf6cf442c51f23c51286b32b"
 
   head "https://github.com/stearz/Darniri.git", branch: "main"
 
