@@ -4,11 +4,11 @@ cask "darniri" do
 
   url "https://github.com/stearz/Darniri/releases/download/v1.2.0/Darniri-arm64.zip"
   name "Darniri"
-  desc "Scrolling-column window manager for macOS"
+  desc "Scrolling-column window manager"
   homepage "https://github.com/stearz/Darniri"
 
-  depends_on macos: ">= :sequoia"
   depends_on arch: :arm64
+  depends_on macos: :sequoia
 
   app "Darniri.app"
   binary "#{appdir}/Darniri.app/Contents/Resources/darniri", target: "Darniri"
