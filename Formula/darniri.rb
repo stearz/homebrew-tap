@@ -5,7 +5,7 @@ class Darniri < Formula
   version "1.1.0"
 
   url "https://github.com/stearz/Darniri/releases/download/v1.1.0/Darniri-arm64.tar.gz"
-  sha256 "b60d62c46e8b425ad03de60f2c96e2cc6ff9fa37b07fce3447ac2b8cc5538c45"
+  sha256 "761989b850f2eb1cb2aa4f36b7d07c950d17982b207cdaeb6361869910e7d456"
 
   head "https://github.com/stearz/Darniri.git", branch: "main"
 
